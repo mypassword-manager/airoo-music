@@ -1,0 +1,194 @@
+{
+  "pages/home/hero-bg": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1346174630",
+    "searchQuery": "neon purple pink music concert dark abstract glow",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1135398187",
+      "https://img1.wsimg.com/isteam/getty/2194181240"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:40.168Z",
+    "lastUpdated": "2026-11-16T08:50:40.168Z",
+    "gettyId": "1346174630",
+    "alternativeGettyIds": [
+      "1135398187",
+      "2194181240"
+    ]
+  },
+  "pages/home/album-indonesian": {
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1280866386",
+    "searchQuery": "romantic music album art warm sunset",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2299016917",
+      "https://img1.wsimg.com/isteam/getty/1454539306"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:40.587Z",
+    "lastUpdated": "2026-11-16T08:50:40.587Z",
+    "gettyId": "1280866386",
+    "alternativeGettyIds": [
+      "2299016917",
+      "1454539306"
+    ]
+  },
+  "pages/home/album-another-love": {
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1487935281",
+    "searchQuery": "album art indie folk dark moody portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2294962937",
+      "https://img1.wsimg.com/isteam/getty/2285438987"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:40.990Z",
+    "lastUpdated": "2026-11-16T08:50:40.990Z",
+    "gettyId": "1487935281",
+    "alternativeGettyIds": [
+      "2294962937",
+      "2285438987"
+    ]
+  },
+  "pages/home/album-taylor": {
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2176637135",
+    "searchQuery": "pop music album art colorful vibrant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2185702872",
+      "https://img1.wsimg.com/isteam/getty/682493328"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:41.009Z",
+    "lastUpdated": "2026-11-16T08:50:41.009Z",
+    "gettyId": "2176637135",
+    "alternativeGettyIds": [
+      "2185702872",
+      "682493328"
+    ]
+  },
+  "pages/home/album-malaysia": {
+    "orientations": "square",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1181431761",
+    "searchQuery": "Malaysian music artist portrait dark studio",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1357723735",
+      "https://img1.wsimg.com/isteam/getty/2148276765"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:41.777Z",
+    "lastUpdated": "2026-11-16T08:50:41.777Z",
+    "gettyId": "1181431761",
+    "alternativeGettyIds": [
+      "1357723735",
+      "2148276765"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png",
+    "searchQuery": "A bold neon wordmark logo for \"My Hitz R-Cash\" — the text rendered in a vibrant ",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-original-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png": {
+        "sessionId": "921f79e1-59b9-4c00-a05f-fd2d3b680e96",
+        "logoId": "a96704e9-8d53-4d30-8aff-50c0c509a844",
+        "groupId": "6350be85-9c7d-45b6-a770-530630d59a4f"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-mug-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-card-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-tshirt-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-box-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-mug-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-card-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-tshirt-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-mockup-box-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-16T08:50:52.371Z",
+    "lastUpdated": "2026-11-16T08:51:34.899Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#121212",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/921f79e1-59b9-4c00-a05f-fd2d3b680e96/horizontal-transparent-a96704e9-8d53-4d30-8aff-50c0c509a844/logo-logo.png",
+    "logoGroupId": "6350be85-9c7d-45b6-a770-530630d59a4f"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/8370fee9-338f-47c0-90ec-4f53f81d373a/favicon-transparent-025ebf20-a7cf-4af0-bac1-51514aaa4bc9/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/8370fee9-338f-47c0-90ec-4f53f81d373a/favicon-transparent-025ebf20-a7cf-4af0-bac1-51514aaa4bc9/logo-logo.png": {
+        "sessionId": "8370fee9-338f-47c0-90ec-4f53f81d373a",
+        "logoId": "025ebf20-a7cf-4af0-bac1-51514aaa4bc9",
+        "groupId": "6350be85-9c7d-45b6-a770-530630d59a4f"
+      }
+    },
+    "logoGroupId": "6350be85-9c7d-45b6-a770-530630d59a4f",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/8370fee9-338f-47c0-90ec-4f53f81d373a/favicon-transparent-025ebf20-a7cf-4af0-bac1-51514aaa4bc9/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/8370fee9-338f-47c0-90ec-4f53f81d373a/favicon-original-025ebf20-a7cf-4af0-bac1-51514aaa4bc9/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-11-16T08:51:16.645Z",
+    "lastUpdated": "2026-11-16T08:51:35.046Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#121212",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/2e9f1900-81c0-4419-8364-eec98fa77d56/session/8370fee9-338f-47c0-90ec-4f53f81d373a/favicon-transparent-025ebf20-a7cf-4af0-bac1-51514aaa4bc9/logo-logo.png"
+  }
+}
